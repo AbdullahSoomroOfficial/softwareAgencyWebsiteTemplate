@@ -271,6 +271,6 @@ footer a:not(.nav-link) {
   text-decoration: none;
 }
 
-.wave-underline {
-  text-decoration: underline wavy #f6e05e;
-}
+/* .wave-underline {
+  text-decoration: 4px underline wavy #f6e05e;
+} */
